@@ -1,0 +1,11 @@
+{
+  "name": "salesordertoinventory-v2",
+  "version": "1.0.0",
+  "description": "Syncs sales orders between Netuniverse Ecommerce and Zoho Inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
